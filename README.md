@@ -240,4 +240,4 @@ This repository serves as the official landing page for Ashampoo 3D CAD Architec
 **Get the most recent version of Ashampoo 3D CAD Architecture today!**
 
 ---
-**Last updated:** 2026-09-09 08:47:04 UTC
+**Last updated:** 2026-09-09 13:32:09 UTC
